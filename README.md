@@ -1,3 +1,4 @@
-<img src="./logo.png" width="100"/>
+<img src="./logo.png"/>
+
 # ledsaget studie backend - nodejs
 repositório criado para centralizar a mentoria em nodejs na área de backend.
