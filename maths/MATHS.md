@@ -1,5 +1,6 @@
 ## CONCEITOS BÁSICOS MATEMÁTICOS
 
+<div style="text-align: justify">
 Os conjuntos numéricos são reuniões de números que apresentam uma ou mais características em comum. Todo **conjunto numérico** possui **subconjuntos**, que são definidos impondo uma condição adicional ao conjunto numérico observado. É assim que são definidos os conjuntos dos **números pares e ímpares**, que são **subconjuntos** dos **números inteiros**.
 
 #### Conjunto dos números inteiros
@@ -62,3 +63,5 @@ Sabendo que **2m + 1 = j**, que **também é um número inteiro**, teremos: **2(
 – O **produto entre dois números pares** terá como **resultado um número par.**
 
 Fonte da pesquisa: https://brasilescola.uol.com.br/o-que-e/matematica/o-que-sao-numeros-pares-impares.htm
+
+</div>
