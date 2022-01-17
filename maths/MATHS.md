@@ -2,11 +2,11 @@
 
 <p align="justify">Os conjuntos numéricos são reuniões de números que apresentam uma ou mais características em comum. Todo <b>conjunto numérico</b> possui <b>subconjuntos</b>, que são definidos impondo uma condição adicional ao conjunto numérico observado. É assim que são definidos os conjuntos dos <b>números pares e ímpares</b>, que são <b>subconjuntos</b> dos <b>números inteiros</b>.</p>
 
-#### Conjunto dos números inteiros
+### Conjunto dos números inteiros
 
 <p align="justify">O <b>conjunto dos números inteiros</b> é formado <b>apenas por números que não são decimais</b>, ou seja, que <b>não</b> possuem vírgula. Em outras palavras, são os <b>números que representam unidades que ainda não foram repartidas.</b> A esse conjunto, pertencem os <b>números inteiros negativos, o zero e os números inteiros positivos</b>. Assim, podemos escrever seus elementos da seguinte maneira: <b>Z = {…, – 3, – 2, – 1, 0, 1, 2, 3, …}</b>. O <b>conjunto dos números naturais</b> está contido no <b>conjunto dos números inteiros</b>, pois os <b>números naturais são aqueles que, além de inteiros, não são negativos.</b> Portanto, o <b>conjunto dos números naturais é um dos subconjuntos do conjunto dos números inteiros.</b></p>
 
-#### Números pares
+### Números pares
 
 <p align="justify">Assim como o <b>conjunto dos números naturais</b> é subconjunto dos <b>números inteiros</b>, o <b>conjunto dos números pares</b> também é. Em um primeiro momento, aprendemos a reconhecer os elementos do conjunto dos números pares por meio de brincadeiras. A regra usada é: <b>todo número par termina com 0, 2, 4, 6 ou 8.</b> Dessa maneira, 224, por exemplo, <b>é um número par porque termina com o algarismo 4.</b></p>
 
@@ -17,13 +17,13 @@ A <b>“definição algébrica”</b> usada para reconhecer os elementos desse c
 
 <p align="justify">Nesse caso, <b>n</b> é <b>um elemento do conjunto dos números inteiros.</b> Note que essa é a <b>“tradução”</b> da primeira definição em termos algébricos.</p>
 
-#### Números ímpares
+### Números ímpares
 
 <p align="justify">Os <b>números ímpares são os elementos do conjunto dos números inteiros que não são pares</b>, ou seja, <b>são os números que terminam com algum dos algarismos 1, 3, 5, 7 ou 9.</b> Formalmente, <b>o conjunto dos números ímpares é um subconjunto dos números inteiros,</b> e a definição de seus elementos é: <b>Todo número ímpar não é múltiplo de 2.</b></p>
 
 <p align="justify">Além disso, <b>também é possível escrever a definição algébrica para os elementos do conjunto dos números ímpares:</b> dado um <b>número inteiro i<b>, ele será ímpar se: <b>i = 2n + 1.</b> Nessa definição, <b>n</b> é um <b>número pertencente ao conjunto dos números inteiros.</b></p>
 
-#### Propriedades
+### Propriedades
 
 <p align="justify">As propriedades a seguir são resultados da definição de números pares e ímpares e da ordenação do conjunto dos números inteiros.</p>
 
