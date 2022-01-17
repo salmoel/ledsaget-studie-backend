@@ -26,13 +26,13 @@ Além disso, **também é possível escrever a definição algébrica para os el
 
 As propriedades a seguir são resultados da definição de números pares e ímpares e da ordenação do conjunto dos números inteiros.
 
-– Entre dois números ímpares consecutivos **sempre existe um número par.**
+- Entre dois números ímpares consecutivos **sempre existe um número par.**
 
 - É por esse motivo que não precisa haver dúvidas quanto ao número zero. **Como ele está entre – 1 e 1, que são inteiros ímpares consecutivos, então ele é par.**
 
-– Entre **dois números pares consecutivos** sempre **existe um número ímpar.**
+- Entre **dois números pares consecutivos** sempre **existe um número ímpar.**
 
-– A **soma entre dois números inteiros consecutivos** sempre **será um número ímpar.**
+- A **soma entre dois números inteiros consecutivos** sempre **será um número ímpar.**
 
 Para mostrar isso, considere **n** um **número inteiro** e observe a adição entre **2n e 2n + 1**, que **são os inteiros consecutivos** formados por ele:
 
@@ -56,12 +56,12 @@ Que é um número par.
 
 Sabendo que **2m + 1 = j**, que **também é um número inteiro**, teremos: **2(2m + 1) = 2j**
 
-– A **soma entre um número par e um número ímpar** é sempre **igual a um número ímpar.**
+- A **soma entre um número par e um número ímpar** é sempre **igual a um número ímpar.**
 
-– A **diferença entre dois números ímpares**, **ou entre dois números pares**, é sempre **igual a um número par.**
+- A **diferença entre dois números ímpares**, **ou entre dois números pares**, é sempre **igual a um número par.**
 
-– O **produto entre dois números ímpares** é igual a **um número ímpar.**
+- O **produto entre dois números ímpares** é igual a **um número ímpar.**
 
-– O **produto entre dois números pares** terá como **resultado um número par.**
+- O **produto entre dois números pares** terá como **resultado um número par.**
 
 Fonte da pesquisa: https://brasilescola.uol.com.br/o-que-e/matematica/o-que-sao-numeros-pares-impares.htm
