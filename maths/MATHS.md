@@ -81,23 +81,17 @@ A <b>“definição algébrica”</b> usada para reconhecer os elementos desse c
 
 Como no exemplo sugerido, veja:
 
-> 1 + 1 = 2
-
-> 1 + 2 = 3
-
-> 2 + 2 = 4
-
-> 2 + 3 = 5
-
-> 3 + 3 = 6
-
-> 3 + 4 = 7
-
-> 4 + 4 = 8
-
-> 4 + 5 = 9
-
-> 5 + 5 = 10
+```
+ 1 + 1 = 2
+ 1 + 2 = 3
+ 2 + 2 = 4
+ 2 + 3 = 5
+ 3 + 3 = 6
+ 3 + 4 = 7
+ 4 + 4 = 8
+ 4 + 5 = 9
+ 5 + 5 = 10
+```
 
 <b>2 + 2 = 4</b> veja logo, 224 é número par, devido a sua terminação com o número 4.
 
