@@ -67,3 +67,53 @@ A <b>“definição algébrica”</b> usada para reconhecer os elementos desse c
 - O <b>produto entre dois números pares</b> terá como <b>resultado um número par.</b>
 
 <b>Fonte da pesquisa:</b> https://brasilescola.uol.com.br/o-que-e/matematica/o-que-sao-numeros-pares-impares.htm
+
+#### OBSERVAÇÕES:
+<p align="justify"> O conjunto dos números inteiros é formado apenas por números que não são decimais, ou seja, que não possuem vírgula. Em outras palavras, são os números que representam unidades que ainda não foram repartidas. Veja, podemos escrever seus elementos da seguinte maneira: Z = {…, – 3, – 2, – 1, 0, 1, 2, 3, …}.</p>
+
+<p align="justify"> O conjunto dos números inteiros é formado apenas por números que não são decimais, ou seja, que não possuem vírgula. Em outras palavras, são os números que representam unidades que ainda não foram repartidas.</p>
+
+<b>Números pares</b>
+
+<p align="justify">Assim como o conjunto dos números naturais é subconjunto dos números inteiros, o conjunto dos números pares também é.</p>
+
+<p align="justify">A regra usada é: todo número par termina com 0, 2, 4, 6 ou 8. Dessa maneira, 224, por exemplo, é um número par porque termina com o algarismo 4.</p>
+
+Como no exemplo sugerido, veja:
+
+> 1 + 1 = 2
+> 1 + 2 = 3
+> 2 + 2 = 4
+> 2 + 3 = 5
+> 3 + 3 = 6
+> 3 + 4 = 7
+> 4 + 4 = 8
+> 4 + 5 = 9
+> 5 + 5 = 10
+
+<b>2 + 2 = 4</b> veja logo, 224 é número par, devido a sua terminação com o número 4.
+
+<p align="justify">Logo, sempre que multiplicarmos um núemro par, ele sempre será multíplo de 2. Veja, 2*2=2; 2*4=4; 2*3=6...</p>
+
+<p align="justify">Uma outra definição seria que todo núemero inteiro ou elementos desse subconjunto, sempre será dívisel por 2, veja: 2/2=1; 4/2=2;3/3=1...</p>
+
+<p align="justify">Os números ímpares são os elementos do conjunto dos números inteiros que não são pares, ou seja, são os números que terminam com algum dos algarismos 1, 3, 5, 7 ou 9.</p>
+
+<p align="justify">Entre dois números ímpares consecutivos sempre existe um número par; entre dois números pares consecutivos sempre existe um número ímpar; soma entre dois números inteiros consecutivos sempre será um número ímpar.</p>
+
+<b>Veja esse exemplo:</b>
+<b>2n + 2n + 1 = 4n + 1 = 2(2n) + 1</b>
+
+<b>Sabendo que 2n é igual ao número inteiro k, temos:</b>
+<b>2(2n) + 1 = 2k + 1</b> <b>Que cai justamente na definição de número ímpar.</b>
+
+<b>A soma entre dois números ímpares, ou entre dois números pares, tem como resultado um número par.</b> <b>Veja:</b> <b>1(ímpar) + 1(ímpar) = 2(par); 2(par) + 2(par) = 4(par).</b>
+
+- A soma entre um número par e um número ímpar é sempre igual a um número ímpar; <b>Veja:</b> <b>1 + 2 = 3</b>
+
+- A diferença entre dois números ímpares, ou entre dois números pares, é sempre igual a um número par; <b>3 + 3 = 6</b> <b>3 % 3 = 0(par);</b> <b>4 % 3 = 1(ímpar);</b>
+
+- O produto entre dois números ímpares é igual a um número ímpar; <b>Veja:</b> <b>1 * 1 = 1(ímpar).</b>
+
+- O produto entre dois números pares terá como resultado um número par. <b>Veja:</b> <b>2 * 2 = 4(par).</b>
+
